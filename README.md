@@ -62,13 +62,13 @@ Carapace length	Measurement of crab shell	mm	N/A	N/A	N/A
 Carapace Width	Measurement of width of crab shell at first leg	mm	N/A	N/A	N/A
 Collection Date	Date  - day and month of 2017 that crabs we collected from the beach	NA	NA	NA	NA
 Death Date	Day and month of 2017 that adult sand crabs died during laboratory experiment	NA	NA	NA	NA
-# of days alive	Number of days adult crab lived during laboratory experiment	days	NA	NA	NA
+# Number of days alive	Number of days adult crab lived during laboratory experiment	days	NA	NA	NA
 Enviro Plastics present Y/N	N = not present Y= fibers other than yellow polypropylene present	Y or N	NA	NA	NA
-# of Yellow fibers ingested
+# Number of Yellow fibers ingested
 	Number of yellow polypropylene fibers ingested by adult crabs in experiment	number	0= none 1-50 = number of fibers	NA	NA
-# of days with viable eggs	Number of days that an adult crab carried viable eggs in her clutch during the experiment	number	NA	NA	NA
+# Number of days with viable eggs	Number of days that an adult crab carried viable eggs in her clutch during the experiment	number	NA	NA	NA
 Reach larval stage Y/N	Y= eggs collected had reached larval stage during experiment  N= larval stage was not reached	Letter	NA	NA	NA
-# of stages	Number of larval stage changes in egg clutch from time of adult crab collection until adult crab death	numbers	NA	NA	NA
+# Number of stages	Number of larval stage changes in egg clutch from time of adult crab collection until adult crab death	numbers	NA	NA	NA
 Egg stage end of experiment	The number that corresponds to the egg development stage as described by Boolootian et al 1959	Numbers
 
 Ex. 1= development stage 1	NA	NA	NA
@@ -79,14 +79,14 @@ Dataset filename: Sand Data
 Dataset description: Beach names in Oregon where sand was collected and the number of suspected microplastic fibers and particles
 Column name	Description	Units	Code explanation	Data format	Missing data code
 Beach Name	Name of Beach along Oregon, USA coast	English Alphabet	NA	NA	NA
-# of fibers	The number of fibers found in the 100mL sand surface sample	numbers	NA	NA	NA
-# of particles	The number of particles found in 100mL sand surface samples	numbers	NA	NA	NA
+# Number of fibers	The number of fibers found in the 100mL sand surface sample	numbers	NA	NA	NA
+# Number of particles	The number of particles found in 100mL sand surface samples	numbers	NA	NA	NA
 
 Dataset filename: Water Data
 Dataset description: 3 1 L water samples tested for microplastics
 Column name	Description	Units	Code explanation	Data format	Missing data code
 Amount	Volume of water collected from site	Liters	NA	NA	NA
-# of fibers	Number of fibers found in the water after filtered and counted	numbers	NA	NA	NA
+# Number of fibers	Number of fibers found in the water after filtered and counted	numbers	NA	NA	NA
 					
 
 Table 3. Data provenance
@@ -102,6 +102,5 @@ File name	Description	Scripting language
 		
 		
 
-Notes and Comments:
-This is the first time I have filled out a data sheet like this, if there are mistakes or further explanations needed please email primary author Dorothy Horn dhorn@pdx.edu to clarify.
+
 	
